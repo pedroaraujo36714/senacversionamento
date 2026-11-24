@@ -16,3 +16,6 @@ meio = (a + b + c) - maior - menor
 print("O maior número é:", maior)
 print("O menor número é:", menor)
 print("O número do meio é:", meio)
+
+media = (a+b+c)/3
+print(f"A média dos números é {media}")
